@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 16AA-D900
-
- Directory of D:\TestProject
-
-07/31/2020  11:54 PM    <DIR>          .
-07/31/2020  11:54 PM    <DIR>          ..
-07/31/2020  11:54 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  992,845,713,408 bytes free
+change Test
